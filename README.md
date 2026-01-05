@@ -2,13 +2,16 @@
 
 🇧🇷 Brasileiro | 💻 Desenvolvedor | 🚀 Estudante na UFCAT | 🇬🇧/🇺🇸 I also speak English
 
+![Metrics](https://metrics.lecoq.io/pedrolp22?theme=dark)
+![GitHub followers](https://img.shields.io/github/followers/pedrolp22?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/pedrolp22?style=for-the-badge)
+
+
 ## 👨‍💻 Sobre mim
 
 * 🌱 Estudando: C++, Python, HLSL e GLSL.
-* 🤝 Buscando colaborar em: Iniciativas de código aberto
-* 🤔 Interessado(a) em: GameDev, Programação Gráfica, Machine Learning, um emprego (por favor, me contrate)
-
-## 🛠️ Tecnologias & Ferramentas
+* 🤝 Buscando colaborar em: Iniciativas de código aberto.
+* 🤔 Interessado em: GameDev, Programação Gráfica, Machine Learning, um emprego (por favor, me contrate).
 
 **Linguagens:**
 
@@ -18,16 +21,9 @@
 
 * PyCharm | IntelliJ | VS Code | Linux
 
-## 📊 Stats do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/pedrolp22&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/pedrolp22&layout=compact&theme=dracula" height="150" />
-</p>
-
 ## 🚀 Projetos em Destaque
 
 * 🔹 **[Locadora]([link-do-projeto](https://github.com/pedrolp22/Locadora-POO))** – Projeto final da disciplina de Programação Orientada a Objetos
 
 
-⭐️ - Se você gostou do meu perfil, não esqueça de deixar uma estrelinha!
+⭐️ - Se você gostou do meu perfil, não esqueça de deixar uma estrela!
