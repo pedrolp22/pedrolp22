@@ -23,7 +23,7 @@
 
 ## 🚀 Projetos em Destaque
 
-* 🔹 **[Locadora]([[Locadora](https://github.com/pedrolp22/Locadora-POO)])** – Projeto final da disciplina de Programação Orientada a Objetos
+* 🎬 **[Locadora](https://github.com/pedrolp22/Locadora-POO)** – Projeto final da disciplina de Programação Orientada a Objetos
 
 
 ⭐️ - Se você gostou do meu perfil, não esqueça de deixar uma estrela!
