@@ -21,8 +21,8 @@
 ## 📊 Stats do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrolp22&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolp22&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/pedrolp22&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/pedrolp22&layout=compact&theme=dracula" height="150" />
 </p>
 
 ## 🚀 Projetos em Destaque
