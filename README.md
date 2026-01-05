@@ -4,7 +4,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/pedrolp22?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/pedrolp22?style=for-the-badge)
-![Metrics](https://metrics.lecoq.io/pedrolp22?theme=dark)
 
 ## 👨‍💻 Sobre mim
 
