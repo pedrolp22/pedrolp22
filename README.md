@@ -17,11 +17,11 @@
 
 **Ferramentas:**
 
-* PyCharm | IntelliJ | VS Code | Linux
+* PyCharm | IntelliJ | VS Code | Leinux
 
 ## 🚀 Projetos em Destaque
 
-* 🎬 **[Locadora](https://github.com/pedrolp22/Locadora-POO)** – Projeto final da disciplina de Programação Orientada a Objetos
-
+* 🎬 **[Locadora](https://github.com/pedrolp22/Locadora-POO)** – Projeto final da disciplina Programação Orientada a Objetos
+* 🚗 **[DriveEase](https://github.com/pedrolp22/Projeto-AluguelCarros-ES1)** - Projeto final da disciplina Engenharia de Software 1
 
 ⭐️ - Se você gostou do meu perfil, não esqueça de deixar uma estrela!
