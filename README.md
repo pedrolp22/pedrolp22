@@ -1,23 +1,13 @@
 # 👋 Oi, eu sou o Pedro.
 
-🇧🇷 Brasileiro | 💻 Desenvolvedor | 🚀 Estudante na UFCAT | 🇬🇧/🇺🇸 I also speak English
+🇧🇷 Brasileiro | 💻 Desenvolvedor | 🚀 Estudante na UFCAT | 🇬🇧/🇺🇸 I also speak English 
 
-![GitHub followers](https://img.shields.io/github/followers/pedrolp22?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/pedrolp22?style=for-the-badge)
+<img height="200" src="https://github-readme-stats.vercel.app/api/?username=pedrolp22&theme=transparent&showicons=true&locale=pt-br" /> <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolp22&theme=transparent&showicons=true&locale=pt-br&layout=donut" />
 
 ## 👨‍💻 Sobre mim
 
 * 🌱 Estudando: C++, Python, Computação Gráfica e ferramentas IA.
-* 🤝 Buscando colaborar em: Iniciativas para um mundo mais privado e seguro.
-* 🤔 Interessado em: GameDev, Machine Learning, Computer Vision, um emprego (por favor, me contrate).
-
-**Linguagens:**
-
-* Java | C | Python 
-
-**Ferramentas:**
-
-* PyCharm | IntelliJ | VS Code | Linux
+* 🤔 Interessado em: GameDev, Machine Learning, Computer Vision.
 
 ## 🚀 Projetos em Destaque
 
