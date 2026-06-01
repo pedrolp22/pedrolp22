@@ -4,6 +4,8 @@
 
 <img height="200" src="https://github-readme-stats.vercel.app/api/?username=pedrolp22&theme=transparent&showicons=true&locale=pt-br" /> <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolp22&theme=transparent&showicons=true&locale=pt-br&layout=donut" />
 
+- _All the knowledge and tech in the world don't matter if you can't make something cool with them._
+  
 ## 👨‍💻 About me
 
 * 🌱 Studying: C++, Python, Computer Graphics, AI tools.
