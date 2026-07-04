@@ -8,12 +8,12 @@
   
 ## 👨‍💻 About me
 
-* 🌱 Studying: C++, Python, Computer Graphics, AI tools.
-* 🤔 Interested in: GameDev, Machine Learning, Computer Vision.
+* 🌱 Studying: C++, Graphics, AI tools.
+* 🤔 Interested in: GameDev, Low-Level Systems, High-Performance Software.
 
 ## 🚀 Repo highlights
 
-* 🎬 **[Video Rentals](https://github.com/pedrolp22/Locadora-POO)** – Project for my Object-Oriented Programming class final
+* 🎬 **[Video Rentals](https://github.com/pedrolp22/Locadora-POO)** – Project for my OOP class final
 * 🚗 **[DriveEase](https://github.com/pedrolp22/Projeto-AluguelCarros-ES1)** - Project for my Software Engineering 1 class final
 * 🔁 **[Freedirect](https://github.com/pedrolp22/Freedirect)** - A free and open-source browser extension for a more Libre internet.
 * 💡 **[DDGI Demo](https://github.com/pedrolp22/ddgi-demo)** - Demo project for my computer graphics class based on [NVIDIA's DDGI](https://github.com/NVIDIAGameWorks/RTXGI-DDGI).
